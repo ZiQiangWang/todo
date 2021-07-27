@@ -1,0 +1,39 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "delectus aut autem",
+      "isComplete": false
+    },
+    {
+      "id": 2,
+      "text": "quis ut nam facilis et officia qui",
+      "isComplete": false
+    },
+    {
+      "id": 3,
+      "text": "fugiat veniam minus",
+      "isComplete": false
+    },
+    {
+      "id": 4,
+      "text": "et porro tempora",
+      "isComplete": true
+    },
+    {
+      "id": 5,
+      "text": "laboriosam mollitia et enim quasi adipisci quia provident illum",
+      "isComplete": false
+    },
+    {
+      "id": 6,
+      "text": "qui ullam ratione quibusdam voluptatem quia omnis",
+      "isComplete": false
+    },
+    {
+      "id": 7,
+      "text": "illo expedita consequatur quia in",
+      "isComplete": false
+    }
+  ]
+}
